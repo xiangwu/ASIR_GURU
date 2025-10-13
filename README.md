@@ -4,7 +4,6 @@ It inlcudes three main parts, RoboZoo, VisualGarden and EasyHelper.
 
 
 ## RoboZoo
-
   1. 桌面宠物机器人（轮足/坦克）
   2. ROMAN 项目（Rolling Manipulator）    
   3. 仿画机器人
@@ -17,7 +16,6 @@ It inlcudes three main parts, RoboZoo, VisualGarden and EasyHelper.
 
 
 ## EasyHelper
-This part is missing, and it will c u soon...
   1. Hardware
       - 达妙电机控制
       - 鱼眼镜头标定
@@ -27,6 +25,6 @@ This part is missing, and it will c u soon...
       - GUI基础框架（imGUI）
   3. Docs
       - 河南工业大学学位论文Latex模板
-      - ASIR报告模板
-      - ASIR简历模板
+      - ASIR学术报告Latex模板 ASIR_Beamer
+      - ASIR简历Latex模板    ASIR_CV_Latex
       - OpenCV C++ 配置指南
