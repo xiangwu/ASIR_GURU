@@ -4,7 +4,6 @@ It inlcudes three main parts, RoboZoo, VisualGarden and EasyHelper.
 
 
 ## RoboZoo
-Some creative robot projects.
   
 
 ## VisualGarden
