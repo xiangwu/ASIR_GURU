@@ -1,8 +1,8 @@
 # 暗光图像增强算法整理 — URetinex-Net
 
-% 本项目整理并复现了 **URetinex-Net: Retinex-based Deep Unfolding Network for Low-Light Image Enhancement**（CVPR 2022）算法。  
-% 该算法基于 **Retinex 理论**，通过深度展开结构实现低光照图像的亮度恢复与细节增强。
-% 2025.10 Original written by Yang Tianrui 杨甜蕊.
+本项目整理并复现了 **URetinex-Net: Retinex-based Deep Unfolding Network for Low-Light Image Enhancement**（CVPR 2022）算法。  
+该算法基于 **Retinex 理论**，通过深度展开结构实现低光照图像的亮度恢复与细节增强。
+
 ---
 
 ## 📖 论文与资源
@@ -24,7 +24,7 @@
 安装方式：
 ```bash
 pip install torch==1.4.0 torchvision==0.5.0
-
+```
 
 ---
 
@@ -67,3 +67,6 @@ python evaluate.py
     pages     = {5901-5910}
 }
 ```
+
+## 贡献者
+2025/10 杨甜蕊，邓海英
