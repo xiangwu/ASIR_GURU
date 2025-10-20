@@ -1,12 +1,9 @@
-<h1 style="text-align:center; font-family:Times New Roman; color:balck;">
-  绘画机器人的控制<span style="font-family:SimSun;"></span>
-</h1>
+# 绘画机器人的控制
+
+% This project is based on xxx project.
+% 2025.10 Original written by Xu Chang 徐畅.
 
 ---
-This project is based on xxx project. 
-2025.10 Original written by Xu Chang. 
----
-
 - [一、使用刷有GRBL的主控板控制绘画机](#一使用刷有grbl的主控板控制绘画机)
 - [二、令绘画机实现绘画功能 视频教程](#二令绘画机实现绘画功能-视频教程)
   - [预览网站](#预览网站)
