@@ -4,10 +4,10 @@ It inlcudes three main parts, RoboZoo, VisualGarden and EasyHelper.
 
 
 ## RoboZoo
-  
+Some cutting-edge algorithms and projects of robotics.
 
 ## VisualGarden
-Some cutting-edge algorithms and projects.
+Some cutting-edge algorithms and projects of computer vision.
 
 ## EasyHelper
 Some practical tools and docs. 
